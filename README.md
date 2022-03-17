@@ -1,1 +1,1 @@
-# cloud-computing_jellyfish
+# cloud-computing-jellyfish
